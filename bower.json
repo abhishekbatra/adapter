@@ -1,6 +1,7 @@
 {
   "name": "webrtc-adapter",
   "description": "A shim to insulate apps from WebRTC spec changes and prefix differences",
+  "version": "0.9.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/webrtc/adapter.git"
