@@ -10,7 +10,7 @@
     "The WebRTC project authors (http://www.webrtc.org/)",
     "Jesús Leganés Combarro \"piranna\" <piranna@gmail.com>"
   ],
-  "main": ["js/adapter.js"],
+  "main": "js/adapter.js",
   "moduleType": [
     "globals"
   ],
